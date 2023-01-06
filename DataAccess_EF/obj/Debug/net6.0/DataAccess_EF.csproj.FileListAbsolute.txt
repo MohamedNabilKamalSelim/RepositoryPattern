@@ -1,0 +1,15 @@
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.deps.json
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.dll
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\bin\Debug\net6.0\DataAccess_EF.pdb
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\bin\Debug\net6.0\Domain.dll
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\bin\Debug\net6.0\Domain.pdb
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.csproj.AssemblyReference.cache
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.AssemblyInfoInputs.cache
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.AssemblyInfo.cs
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.csproj.CoreCompileInputs.cache
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.csproj.CopyComplete
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.dll
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\refint\DataAccess_EF.dll
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\DataAccess_EF.pdb
+D:\ASPNET_API_PROJECTS\RepositoryPattern\RepositoryPattern\DataAccess_EF\obj\Debug\net6.0\ref\DataAccess_EF.dll
